@@ -1,5 +1,5 @@
 # Lista elementos mas buscados
-
+# Alumno: Nicolas Szoloch
 """Ejercicio 1
 Se desea almacenar un conjunto de datos sobre una lista enlazada y se desea soportar búsquedas sobre dicho conjunto de datos. Se sabe que ciertos elementos del conjunto son buscados más frecuentemente que otros, y que la tendencia de búsqueda cambia con el tiempo, en el sentido que los elementos más frecuentemente consultados no necesariamente son los mismos en todo momento. Implemente una lista enlazada para permitir la búsqueda eficiente de los elementos más consultados. También debe soportar la inserción eficiente de nuevos elementos."""
 
